@@ -1,0 +1,7 @@
+<project name="infinispan-test" default="WAR-build" basedir=".">
+	<description>infinispan-test - Build file</description>
+	
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+	
+</project>
